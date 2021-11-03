@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "74475306229",
+    "project_id": "veggi365-bdc4a",
+    "storage_bucket": "veggi365-bdc4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74475306229:android:ec883112fe7f0ca0b3d9bc",
+        "android_client_info": {
+          "package_name": "com.veggi365"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74475306229-h2e97spcneks7gq0qruad61dngbgcgmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgCKsH1U_275xDNRopSW8OglHGrNdgdms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74475306229-h2e97spcneks7gq0qruad61dngbgcgmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74475306229:android:449eaaeeba67f361b3d9bc",
+        "android_client_info": {
+          "package_name": "com.veggi365.cab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74475306229-h2e97spcneks7gq0qruad61dngbgcgmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgCKsH1U_275xDNRopSW8OglHGrNdgdms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74475306229-h2e97spcneks7gq0qruad61dngbgcgmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
